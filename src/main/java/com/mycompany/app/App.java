@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-  private final String message = "Helloo World!";
+  private final String message = "Helloo World! My First program commit";
 
   public App() {}
 
